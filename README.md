@@ -1,5 +1,7 @@
 # CodeLeap Frontend Test
 
+Test link: https://codeleap-test-gabriel-arantes.vercel.app/
+
 Simple CRUD application for the CodeLeap coding test, built with React + TypeScript.
 
 ## Test Context
