@@ -7,7 +7,7 @@ interface PostEditorFieldsProps {
 }
 
 const fieldBaseClassName =
-  "w-full rounded-lg border border-[#777777] bg-white px-3 py-2 text-sm text-black outline-none placeholder:text-[#CCCCCC]";
+  "w-full rounded-lg border border-[#777777] bg-white px-3 py-2 text-base text-black outline-none placeholder:text-[#CCCCCC] md:text-sm";
 
 export function PostEditorFields({
   idPrefix,

@@ -38,7 +38,7 @@ export function SignupPage({
               value={username}
               onChange={(event) => onUsernameChange(event.target.value)}
               disabled={isSigningUp}
-              className="h-8 w-full rounded-lg border border-[#777777] px-2.75 text-sm text-black outline-none placeholder:text-[#CCCCCC]"
+              className="h-8 w-full rounded-lg border border-[#777777] px-2.75 text-base text-black outline-none placeholder:text-[#CCCCCC] md:text-sm"
             />
           </div>
 
